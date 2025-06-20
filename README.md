@@ -90,14 +90,6 @@ Untuk menjalankan proyek ini di lingkungan lokal (localhost), ikuti langkah-lang
     - Nyalakan Apache dan MySQL dari control panel XAMPP/Laragon Anda.
     - Buka browser dan akses `http://localhost/nama-folder-proyek/`.
 
-## Tampilan Sistem (Screenshot)
-
-**Homepage Pengunjung**
-![Homepage](link_ke_gambar_homepage_anda.jpg)
-
-**Dashboard Admin**
-![Dashboard](link_ke_gambar_dashboard_anda.jpg)
-
 ## Developer
 
 Proyek ini dibuat dan dikembangkan oleh:
